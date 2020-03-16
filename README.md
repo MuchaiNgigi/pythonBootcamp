@@ -1,2 +1,2 @@
 # pythonBootcamp
-Learning Python
+Learning Python Beginner projects
